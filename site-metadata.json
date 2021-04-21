@@ -58,7 +58,7 @@
             {
                 "type": "action",
                 "label": "LinkedIn",
-                "url": "www.linkedin.com/in/tay-kim",
+                "url": "https://www.linkedin.com/in/tay-kim/",
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
