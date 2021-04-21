@@ -1,5 +1,5 @@
 ---
-title: Our Story
+title: Hello I'm Tay Kim.
 hide_title: false
 sections:
   - type: content_section
