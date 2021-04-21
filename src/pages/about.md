@@ -6,17 +6,6 @@ sections:
     image: images/about.jpg
     image_alt: Our team in the meeting room
     content: "Having worked across Europe and Asia, I bring my strong experience in user research, UX/ UI design, and design innovation approaches to customer UX projects for a seamless digital product experience.\n\nI regard myself as a co-innovator with both end-users and solution/ business experts which I apply to create meaningful end-user experiences by simplifying complex systems and bringing concepts to life. I'm passionate about the intersection of design, technology, and business to bring disruptive, yet meaningful impacts for users, society and beyond.\n\nIn my free time, I like to run, cook, and recently started to draw children's books. I also enjoy doing just about anything with the three ladies in my life – wife and two little daughters.\n\nMore about me |\_[linkedin.com/in/tay-kim](http://www.linkedin.com/in/tay-kim)\n"
-  - type: cta_section
-    section_id: cta
-    title: Become a Team Player
-    content: >-
-      We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
-    image: images/cta-about.svg
-    image_alt: Illustration
-    bg_color: light
 seo:
   type: stackbit_page_meta
   title: About Us
