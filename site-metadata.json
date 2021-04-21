@@ -2,7 +2,7 @@
     "title": "Stackbit Agency Theme",
     "color_scheme": "light",
     "accent_color": "green",
-    "base_font": "system-sans",
+    "base_font": "fraunces",
     "header": {
         "type": "header",
         "title": "Agency",
