@@ -44,7 +44,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; 2019 Tay Kim. All rights reserved. ",
+        "content": "&copy; 2019 Tay Kim. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
