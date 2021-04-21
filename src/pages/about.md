@@ -5,15 +5,7 @@ sections:
   - type: content_section
     image: images/about.jpg
     image_alt: Our team in the meeting room
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
-
-
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+    content: "Having worked across Europe and Asia, I bring my strong experience in user research, UX/ UI design, and design innovation approaches to customer UX projects for a seamless digital product experience.\n\nI regard myself as a co-innovator with both end-users and solution/ business experts which I apply to create meaningful end-user experiences by simplifying complex systems and bringing concepts to life. I'm passionate about the intersection of design, technology, and business to bring disruptive, yet meaningful impacts for users, society and beyond.\n\nIn my free time, I like to run, cook, and recently started to draw children's books. I also enjoy doing just about anything with the three ladies in my life – wife and two little daughters.\n\nMore about me |\_[linkedin.com/in/tay-kim](http://www.linkedin.com/in/tay-kim)\n"
   - type: grid_section
     section_id: team
     title: The Team
